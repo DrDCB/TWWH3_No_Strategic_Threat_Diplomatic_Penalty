@@ -1,0 +1,6 @@
+key	value	description
+#cai_variables_tables;0;db/cai_variables_tables/!dcb_strategic_threat_variables		
+CAI_VARIABLE_IMPERIUM_ATTITUDE_BONUS_MODIFIER_AI	0.0000	(In-game) Modifier to imperium attitude bonus towards the AI.
+CAI_VARIABLE_IMPERIUM_ATTITUDE_BONUS_MODIFIER_PLAYER	0.0000	(In-game) Modifier to imperium attitude bonus towards the player.
+CAI_VARIABLE_IMPERIUM_ATTITUDE_PENALTY_MODIFIER_AI	0.0000	(In-game) Modifier to imperium attitude penalty towards the AI.
+CAI_VARIABLE_IMPERIUM_ATTITUDE_PENALTY_MODIFIER_PLAYER	0.0000	(In-game) Modifier to imperium attitude penalty towards the player.
